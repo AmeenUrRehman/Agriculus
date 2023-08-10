@@ -2,7 +2,7 @@
 
 This is a visionary project developed by Abuzar & Ameen for the "hacked.jh" hackathon. We're dedicated to revolutionizing agriculture by providing farmers with data-driven insights, enabling them to make informed decisions about crop cultivation and fertilization. Our predictive analytics empower farmers to anticipate market trends, optimize crop yields, and ultimately enhance their profitability. Join us on this mission to create positive change, transform lives, and drive sustainable growth in the farming community.
 
-![Alt text](<Screenshot 2023-08-10 at 8.02.31 AM.png>)
+<img width="1440" alt="Screenshot 2023-08-10 at 8 02 31 AM" src="https://github.com/AmeenUrRehman/Agriculus/assets/83868776/8c4857c4-c2ba-4b05-bba0-46dc9dc27791">
 
 ![Alt text](<Screenshot 2023-08-10 at 8.19.16 AM.png>)
 
