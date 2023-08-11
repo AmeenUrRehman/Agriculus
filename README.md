@@ -24,7 +24,7 @@ This is a visionary project developed by Abuzar & Ameen for the "hacked.jh" hack
 ### First
 Start by forking this repository, then clone your forked copy and navigate to the root directory.
 ### Install the dependencies with:
-      pip install requirement.txt
+      pip install requirements.txt
 ### Then start the development server with:
     python app.py run
 This runs the app in the development mode. Open http://127.0.0.1:5050/ to view it in your browser.
